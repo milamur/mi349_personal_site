@@ -1,0 +1,27 @@
+body {
+    background: #bdd0c4;
+    color: #141414;
+    padding: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: solid #141414
+}
+
+h1 {
+    font-size: 3em;
+    padding-bottom: 5px;
+    border-bottom: 5px solid #9ab7d3;
+}
+
+#headshot {
+    border: solid #141414
+}
+
+#experience {
+    background: #9ab7d3;
+    padding: 10px;
+}
+
+.list {
+    padding-bottom: 20px;
+    border-bottom: 5px solid #9ab7d3;
+}
