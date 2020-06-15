@@ -25,3 +25,20 @@ h1 {
     padding-bottom: 20px;
     border-bottom: 5px solid #9ab7d3;
 }
+
+.wrapper {
+    display: flex;
+  }
+
+.wrapper > div {
+    flex: 1;
+}
+
+.icon {
+    width: 25%;
+}
+
+
+
+
+
